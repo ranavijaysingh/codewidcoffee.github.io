@@ -1,0 +1,38 @@
+body
+{
+	padding:0px;
+	margin:0px;
+}
+
+.image
+{	padding-top: 0px;
+	margin-top:0px;
+	border-top: 0px;
+	
+	float:left;
+}
+.parent {
+  position: relative;
+  height: 650px;
+  
+}
+.main
+{
+
+	color:black;
+	font-size:40px;
+
+}
+.main h1
+{float:right;}
+
+
+.bottom 
+{
+	position: absolute;
+	  width: 50%;
+  bottom: 0px;
+  
+} 
+
+
